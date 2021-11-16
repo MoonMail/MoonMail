@@ -8,7 +8,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.6.7",
+    "aws-sdk": "^2.814.0",
     "babel-runtime": "^6.26.0",
     "joi": "^13.1.2",
     "jsonwebtoken": "^8.2.0",
