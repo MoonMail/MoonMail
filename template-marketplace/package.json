@@ -14,7 +14,7 @@
     "watch": "NODE_ENV=test mocha --require choma --require babel-register --colors --watch \"./{,!(node_modules)/**/}/*.test.js\""
   },
   "devDependencies": {
-    "aws-sdk": "^2.106.0",
+    "aws-sdk": "^2.814.0",
     "aws-sdk-mock": "^1.7.0",
     "babel-core": "^6.25.0",
     "babel-eslint": "^6.0.3",
