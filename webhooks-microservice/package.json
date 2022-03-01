@@ -13,7 +13,7 @@
     "joi": "^13.1.2",
     "jsonwebtoken": "^8.2.0",
     "moment": "^2.21.0",
-    "requestretry": "^1.13.0",
+    "requestretry": "^7.0.0",
     "uuid": "^2.0.3",
     "winston": "^2.4.1"
   },
