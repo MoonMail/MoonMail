@@ -11,7 +11,7 @@
     "aws-sdk": "^2.6.7",
     "babel-runtime": "^6.26.0",
     "joi": "^13.1.2",
-    "jsonwebtoken": "^8.2.0",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.21.0",
     "requestretry": "^1.13.0",
     "uuid": "^2.0.3",
